@@ -1,10 +1,10 @@
-# XCIPTV Icon Maker
+# Icon Maker
 
-A combination of scripts and tools to be used in Windows to create your own icons for XCIPTV. It was built trying to get the most out of basic/limited programming languages and as I wanted to add more to it, it surprised me what was possible with only batch script and powershell. You can use a single background and logo, launch the batch script "XCIPTV_Icon_Maker.bat" from the root folder, which then asks the user for some basic inputs.
+A combination of scripts and tools to be used in Windows to create your own icons for an app. The images used are just for example purposes. It was built trying to get the most out of basic/limited programming languages and as I wanted to add more to it, it surprised me what was possible with only batch script and powershell. You can use a single background and logo, launch the batch script "Icon_Maker.bat" from the root folder, which then asks the user for some basic inputs.
 
 # Step 1
 
-Drop a background and logo into the main folder. Background can be jpeg or png. It can be any aspect ratio or resolution (recommended at least 720p to look good on TV). The script handles conversion to jpeg and cropping from centre to make it 16:9. Logo must be png, but can be any resolution (recommended 512p) and aspect ratio, the script handles making the logo square ready for using in your app.
+Drop a background and logo into the main folder. Background can be jpeg or png. It can be any aspect ratio or resolution (recommended at least 720p to look good on apps intended for TV). The script handles conversion to jpeg and cropping from centre to make it 16:9. Logo must be png, but can be any resolution (recommended 512p) and aspect ratio, the script handles making the logo square ready for using in your app.
 
 # Step 2
 
